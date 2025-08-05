@@ -1,0 +1,17 @@
+{
+  "name": "DLAN Token",
+  "symbol": "DLAN",
+  "description": "Utility token for DLAN Stake DApp",
+  "image": "https://raw.githubusercontent.com/B1ack2Mamba/dlanis-assets/main/assets/image/logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/B1ack2Mamba/dlanis-assets/main/assets/image/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
